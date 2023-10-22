@@ -12,7 +12,7 @@
 
 
 
-✒️ Eu gosto de no meu tempo livre estudar Cyber Security
+✒️ Entusiasta de Cyber Security
 
 
 
