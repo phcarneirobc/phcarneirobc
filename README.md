@@ -49,5 +49,5 @@
 <a href="https://www.linkedin.com/in/pedro-henrique-barroso-61440b229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username)
+![Profile Views](https://komarev.com/ghpvc/?username=phcarneirobc)
 
