@@ -42,12 +42,12 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phcarneirobc&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phcarneirobc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-![Profile Views](https://komarev.com/ghpvc/?username=phcarneirobc)
+
 
 
 
 <a href="https://www.linkedin.com/in/pedro-henrique-barroso-61440b229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
+![Profile Views] (https://komarev.com/ghpvc/?username=phcarneirobc)
 
