@@ -4,9 +4,6 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor FullStack
-
-
 
 🎓 Eu estudo Análise e Desenvolvimento de Sistemas na UNIFOR
 
