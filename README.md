@@ -2,14 +2,6 @@
 
 # Oi, me chamo Pedro Henrique👋
 
-### Sobre mim
-
-
-🎓 Eu estudo Análise e Desenvolvimento de Sistemas na UNIFOR
-
-
-
-✒️ Entusiasta de Cyber Security
 
 
 
